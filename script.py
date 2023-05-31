@@ -36,5 +36,5 @@ def extract_tags(url):
     for tag in floodlight_id:
         print(tag)
 
-url = 'https://www.xda-developers.com/'
+url = 'https://www.travelguard.com/?cmpid=bac-001-merkle-PRO-Adara-US-A-InMKT-All-dis-300x250&dclid=CP-Kn7mHpf4CFQyx1Qodbg0DZQ'
 extract_tags(url)
