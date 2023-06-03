@@ -88,7 +88,7 @@ def has_login_form(response):
     return False
 
 # Example usage
-website_url = "https://www.amazon.com"
+website_url = "https://www.arielvineyards.com/"
 crawlable = is_website_crawlable(website_url)
 if crawlable:
     print(f"The website {website_url} is crawlable.")
